@@ -1,9 +1,6 @@
 import React from 'react';
 import './Projects.css';
-<<<<<<< HEAD
 import Image from 'next/image';
-=======
->>>>>>> 6662c1d37d6625aba9ad21c7586a303962d6dae4
 
 const data = [
     {
@@ -57,11 +54,10 @@ const data = [
       <div className="projects-container">
       {data.map((project) => (
           <div className="project-card" key={project.title} data-aos="zoom-in-up">
-<<<<<<< HEAD
             <Image className="project-image" src={project.img} alt={project.title} width={300} height={300}/>
-=======
-            <img className="project-image" src={project.img} alt={project.title} />
->>>>>>> 6662c1d37d6625aba9ad21c7586a303962d6dae4
+
+            <Image className="project-image" src={project.img} alt={project.title}  width={300}
+            height={300}/>
             <div className="project-content">
               <h3 className="project-title">{project.title}</h3>
               <p className="project-desc">{project.desc}</p>

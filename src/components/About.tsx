@@ -7,11 +7,9 @@ const About = () => {
       <h2 className="about-title">About Me</h2>
       <div className="about-content">
         <p>
-<<<<<<< HEAD
+
           Hello! I&#39;m Salman Raza, a passionate web developer with experience in building dynamic
-=======
-          Hello! I'm Salman Raza, a passionate web developer with experience in building dynamic
->>>>>>> 6662c1d37d6625aba9ad21c7586a303962d6dae4
+          Hello! I&#39;m Salman Raza, a passionate web developer with experience in building dynamic
           and responsive web applications. My expertise includes JavaScript, TypeScript, React, Next.js, and more.
         </p>
         <p>
