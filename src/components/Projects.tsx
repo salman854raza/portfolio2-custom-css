@@ -54,10 +54,10 @@ const data = [
       <div className="projects-container">
       {data.map((project) => (
           <div className="project-card" key={project.title} data-aos="zoom-in-up">
-            <Image className="project-image" src={project.img} alt={project.title} width={300} height={300}/>
+            <Image className="project-image" src={project.img} alt={project.title} width={600} height={700}/>
 
-            <Image className="project-image" src={project.img} alt={project.title}  width={300}
-            height={300}/>
+            {/* <Image className="project-image" src={project.img} alt={project.title}  width={300}
+            height={300}/> */}
             <div className="project-content">
               <h3 className="project-title">{project.title}</h3>
               <p className="project-desc">{project.desc}</p>

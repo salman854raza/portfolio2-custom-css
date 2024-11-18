@@ -9,16 +9,7 @@ const Hero = () => {
       <Navbar />
       <div className="hero-container">
         <div className="hero-image-container">
-          <Image 
-            src="/salman.jpeg" 
-            alt="Salman Raza" 
-            className="hero-image"
-            width={300}
-            height={300}
-          />
-        </div>
-        <div className="hero-text">
-          <p>I&#39;m</p>
+          
           <Image 
             src="/salman.jpeg" 
             alt="Salman Raza" 
