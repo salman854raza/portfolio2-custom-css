@@ -7,7 +7,7 @@ const data = [
       id: 0,
       title: "Todo List",
       desc: "A React & Typescript based app for managing and organizing your tasks efficiently.",
-      img: "/projects_1.png",
+      img: "/projects_1.PNG",
       tags: ["React", "Node", "CSS", "Typescript"],
   },
   {
@@ -28,21 +28,21 @@ const data = [
       id: 3,
       title: "Currency Converter Project",
       desc: "A simple HTML and Typescript powered tool for converting currencies with real-time rates.",
-      img: "/projects_4.png",
+      img: "/projects_4.PNG",
       tags: ["HTML", "Node", "CSS", "Typescript"],
   },
   {
       id: 4,
       title: "Static Interactive Resume",
       desc: "A Typescript-based interactive resume built with HTML and CSS, allowing users to showcase their skills dynamically.",
-      img: "/projects_5.png",
+      img: "/projects_5.PNG",
       tags: ["HTML", "Node", "CSS", "Typescript"],
   },
   {
       id: 5,
       title: "Simple Calculator Project ",
       desc: "A basic HTML CSS and Typescript calculator for performing essential arithematic operations.",
-      img: "/projects_6.png",
+      img: "/projects_6.PNG",
       tags: ["HTML", "Node", "CSS", "Typescript"],
   },
   ];
